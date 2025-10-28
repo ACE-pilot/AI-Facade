@@ -10,9 +10,7 @@ Human-factor-driven automated façade generation and optimization using multimod
 
 ## 🔍 Project Overview
 
-**AI-Facade** is a research project that explores how physiological data can inform automated architectural façade design.
-It establishes a closed-loop workflow linking **human-factor evidence**, **computational optimization**, and **parametric generation**.
-By translating multimodal physiological signals—such as EEG—into computable design objectives, the project leverages **multi-agent deep reinforcement learning (MADRL)** to optimize façade geometry and materials.
+**AI-Facade** is a research project that explores how physiological data can inform automated architectural façade design. It establishes a closed-loop workflow linking human-factor evidence, computational optimization, and parametric generation. By translating multimodal physiological signals such as EEG into computable design objectives, the project leverages multi-agent deep reinforcement learning (MADRL) to optimize façade geometry and materials. To reflect the iterative nature of research and experimentation, this repository intentionally preserves multiple versions of the code, including intermediate and modified copies used during testing and debugging. These files document the trial-and-error process that contributed to model stability, environment design, and algorithm improvement.
 
 The system integrates:
 
