@@ -1,6 +1,7 @@
 # AI-Facade
 Human-factor-driven automated façade generation and optimization using multimodal physiological data and multi-agent deep reinforcement learning for intelligent geometry and material design.
-![Uploading Fig1.jpg…]()
+
+<img width="1088" height="622" alt="image" src="https://github.com/user-attachments/assets/9160144b-d914-44c8-83be-06b989057230" />
 
 ---
 # 🏙️ AI-Facade
